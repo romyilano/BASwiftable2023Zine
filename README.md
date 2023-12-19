@@ -2,6 +2,8 @@
 
 A zine for memory's sake! Thank you for creating such a wonderful conference!
 
-* [BaSwiftableMemoryZineCurrent.pdf](BaSwiftableMemoryZineCurrent.pdf)
+* [BaSwiftableMemoryZineCurrent.pdf](./BaSwiftableMemoryZineCurrent.pdf)
 
 
+![Zine cover](images
+/BaSwiftable\ Memory\ Zine-01.jpg)
